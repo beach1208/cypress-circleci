@@ -31,7 +31,7 @@ function App() {
         <div className="container flex flex-col gap-y-8 md:gap-y-10 mx-auto px-5 py-5 sm:py-12 md:py-10 lg:py-15 xl:py-20 text-gray-200 bg-gray-800 rounded-2xl">
           <div className="w-full text-center">
             <div className="mb-4 text-white text-3xl md:text-4xl font-extrabold">
-              Don’t miss out!!
+              Don’t miss out!! Changed text
             </div>
 
             <div className="text-base sm:text-md">
